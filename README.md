@@ -1,18 +1,11 @@
-### Hi there 👋
 # Hi everyone :wave:
 
-I'm a web developer from the Czech Republic, who loves open source, and is currently working at [Gitpod](https://gitpod.io/).
-I mainly code in TypeScript, in 2020 I fell in love with Next.js, React, React Native, Svelte and so many other modern web frameworks. I am always learning. Currently I'm also
-working on a couple of open-source projects, including my own
-[Interclip](https://github.com/interclip/interclip), which is a tool
-that can be used to share links across devices. I also am contributing
-to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to
-manage your future open-source contributions.
+I'm a PhD student from [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), who loves Internet of Things.
 
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lixinghe1999&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
  (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))

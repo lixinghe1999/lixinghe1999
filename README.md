@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a PhD student from [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), who loves Internet of Things.
+I'm a PhD student from [AIoT Lab](http://aiot.ie.cuhk.edu.hk/), [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) 
 
 ## Quick overview
 * GitHub stats:  

@@ -1,16 +1,14 @@
 # Hi everyone :wave:
 
-I'm a PhD student from [AIoT Lab](http://aiot.ie.cuhk.edu.hk/), [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) 
+I'm Lixing He, a PhD student from [AIoT Lab](http://aiot.ie.cuhk.edu.hk/), [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) 
 
-## Quick overview
-* GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lixinghe1999&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+## Overview
+I am a researcher in Mobile Computing and Internet of Things. Specially, I am interested in acoustic sensing and navigation, multi-modal sensor fusion.
 
 ### Curriculum Vitae
 
-### My skills 📜
+### Publication 📜
+1. 
 
 ### Languages 🌐
 
